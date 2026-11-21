@@ -1,0 +1,6 @@
+#secondary,
+.ytLockupViewModelWrapper,
+.style-scope.ytd-rich-grid-renderer
+{
+    display: none !important;
+}
